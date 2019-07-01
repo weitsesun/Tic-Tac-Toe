@@ -21,8 +21,12 @@
     "react-dom": "^16.8.6"
   },
   "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
     "babel": "^6.23.0",
     "babel-loader": "^8.0.6",
-    "webpack": "^4.35.2"
+    "webpack": "^4.35.2",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14"
   }
 }
